@@ -184,12 +184,12 @@ export default function Footer() {
               © {new Date().getFullYear()} Cardamom Indian Cuisine. All rights reserved.
             </p>
             <a
-              href="https://nyc.voltanpo.org"
+              href="https://www.novusnyc.org/"
               target="_blank"
               rel="noreferrer"
-              className="text-cream/20 hover:text-cream/50 text-xs transition-colors font-sans"
+              className="text-[#F6B78D] hover:text-[#F6B78D] text-xs transition-colors font-sans"
             >
-              Website by @VoltaNYC
+              Made by Novus
             </a>
           </div>
         </div>
